@@ -5,7 +5,7 @@ sudo apt upgrade
 sudo apt install git python3-venv
 git clone https://github.com/enoleriand-alt/Enum
 
-#run
+# run
 
 python3 -m venv strails
 cd strails/
