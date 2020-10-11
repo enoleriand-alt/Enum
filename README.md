@@ -22,7 +22,7 @@ cd Enum/
 
 python3 Enogans.py 
 
-## yang harus anda ubah
+## you must enter your key
 
 ```bash
 #!/usr/local/bin/python
