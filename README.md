@@ -22,7 +22,7 @@ cd Enum/
 
 python3 Enogans.py 
 
-## you must enter your key
+## your key gays
 
 ```bash
 #!/usr/local/bin/python3
