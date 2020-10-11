@@ -25,7 +25,7 @@ python3 Enogans.py
 ## you must enter your key
 
 ```bash
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 import requests
 import json
 import os
