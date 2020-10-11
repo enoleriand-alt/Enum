@@ -44,7 +44,7 @@ def get_sub_domains(domain,filepath):
     querystring = {"children_only":"true"}
     headers = {
     'accept': "application/json",
-    'apikey': "kcsVEp2kX1gAwPJrPMY5hW2vy12eTjiq"
+    'apikey': "Your API Key"
     }
     response = requests.request("GET", url, headers=headers, params=querystring)
     result_json=json.loads(response.text)
