@@ -30,7 +30,7 @@ import requests
 import json
 import os
 
-print ("\nSubdomain Enumeration Script\n")
+print ("\nYou must know Eno who is really handsome\n")
 def get_sub_domains(domain,filepath):
   url = "https://api.securitytrails.com/v1/domain/"+domain+"/subdomains"
   #print(url)
